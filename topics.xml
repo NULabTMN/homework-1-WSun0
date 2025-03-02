@@ -1,46 +1,1378 @@
 <topics>
+  <!-- ================= GREAT BOSTON FIRE ================= -->
   <topic>
-    <id></id>
+    <id>https://guides.loc.gov/chronicling-america-great-boston-fire</id>
     <results>
+      <!-- 1) The Cairo Daily Bulletin (Cairo, IL) -->
       <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
+        <id>https://chroniclingamerica.loc.gov/lccn/sn88074142/1872-11-10/ed-1/seq-3/</id>
+        <rel>1</rel>
+        <text>
+THE HUM OF THE UNIVERSE IN FLAMES.
+Boston, Nov. 9. Very extensivu con
+fiagration is now raging at tho corner of
+Hummer and Kingston street, extending
+east and west on Kingston street nnd
+north and south on Summer street. En
+gines aro hauled by band.
+LATER.
+There is no abatement to conflagration,
+it is the most extensivo flro that has viiited
+Iioston for twenty years, being in tho solid
+dry goods portion of tho city. It has ex
+tended entire length of Winthorp square,
+which embraces A. T. Stewart's, J. M.
+Ucebe's, Anderson, Heath is Co.'s, and
+Houghton, Perkins Co.'s stores. No es-
+timate of tho loss can bo given, but report
+ers say it will go into millions. The
+suburban Urn department bus been called
+upon. The lire is now at its height. The
+buildings nre principally of grunito. A
+nortbwt't wind is prevailing. Tho preis
+hero call It a second Chicago.
+THE riRE STILL KAOINO.
+Boston, Nov. 9, II p.m. The lire is
+now within two blocks of the Western
+Union telegraph office. Operators are
+taking up t'leir instruments and preparing
+to vacate. Lino men and material have
+been ordered to Iioston from adjoining
+towns, so that if connection with Now
+York is lost, which now seems very
+likely, it will probably bo soon rctoroJ,
+certainly at an early hour in tbe morning,
+if not to-night. The fire has now travelled
+half a milo through tho heart of the busi-
+ness portion of the city, and Is spreading
+with frightful rapidity.
+ELEVEN-THIRTY P.M.
+'J' ho fire is now progressing towards
+Hroad street, having swept both fides of
+Summer street to High street and pur-
+chase street. Goods are being romoved
+from sto'es in every direction in tho vicin-
+ity of the fire. Engines havo been tele-
+graphed far from Providence, Worcester
+and other places.
+MIDNWflT.
+The flro is moving up Franklin street,
+and has nearly reached Howley streot.
+Cathedral building, corner ot Devensbiro
+and Franklin streets, is on flro, with no
+hopes of saving it. The flames are also
+spreading on Federal and Congress street!
+Every kind of vehicle ii impreued mov-
+ing goods. The fire has reached the
+Rroad street wharves, South Congreis
+street, and vessels are on fire. Hartford
+and Erio railroad depot is burned.
+TWELVE-THIRTr A.M.
+It is feared tho en tiro area from Sum-
+ner street on tho south, to Washington
+street on tho west, to Milk street on the
+north, to tbo water on the east, will be
+laid waste. Pearl street has to far es-
+caped. Heat it intense.
+one o'clock a. VI.
+Tbe flames havo reached Washington
+street, north of Franklin. The Transcript
+building is on Are, alo all tho splendid
+granite warofcoiues on Franklin squarct
+Winthrop square and vicinity aro burned.
+Fears are now entertained that the flames
+will sweep everything to State street, If
+not further north.
+FIRE.
+        </text>
       </result>
+      
+      <!-- 2) "A Second Chicago" from Nashville Union and American (Nashville, TN) -->
       <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
+        <id>https://chroniclingamerica.loc.gov/lccn/sn85033699/1872-11-10/ed-1/seq-1/</id>
+        <rel>1</rel>
+        <text>
+The City of Boston .In Tlames!
+Too Business Streets Swept Awiy
+Miles of Granite Consumed.
+Blowing in Houses to Stop the Fire.
+Several Firemen Killed.
+The Fire Still Bagliiff at 4 A. 3k,
+And Still Spreading – Savagely.
+Boston, Mass., Nov. 9. A very exten-
+sive conflagration is now raging at the
+corner of Summer and Kingston streets.
+There is no abatement in the conflagration.
+It is the most extensive fire that has visited
+Boston for twenty years, and is in the solid
+dry goods portion of the city. It has extended
+the entire length of Winthrop square, which
+embraces A. T. Stewart's, J. M. Beebe's,
+Anderson, Heath Co., and Houghton, Terklns:
+Co.'a stores. Reporters say it will go into
+millions. The fire is now at its height. The
+buildings are principally of granite; a northerly
+wind is prevailing. The press here call it a
+second Chicago.
+The fire is now within two blocks of the
+Western Union Telegraph Office. Operators
+are taking up their instruments and preparing
+to vacate. Material has been ordered to Boston
+from adjoining towns. The fire has traveled half
+a mile through the heart of the city, and is
+spreading with frightful rapidity.
+        </text>
+      </result>
+      
+      <!-- 3) "THE GREAT CALAMITY." from The Sun (New York, NY) [First version] -->
+      <result>
+        <id>https://chroniclingamerica.loc.gov/lccn/sn83030214/1872-11-11/ed-1/seq-1/</id>
+        <rel>1</rel>
+        <text>
+THE GREAT CALAMITY.
+The Finest "Warehouses and Richest
+Parts of Boston in Ashes,
+FIFTEEN HOURS OF TERROR.
+Losses estimated between $80,000,000 and $90,000,000,
+with additional losses of $10,000,000 to $12,000,000.
+SEVERAL LIVES LOST.
+A plain and unvarnished account of the disaster,
+Reception of the news in New York City.
+Boston, Nov. 10 – The city has been plunged
+into chaos as seventy acres of buildings are consumed.
+Nearly every structure in the affected boundary,
+stretching along Slimmer and Federal streets to Drake's
+wharf, has been obliterated.
+        </text>
+      </result>
+      
+      <!-- 4) "THE GREAT CALAMITY." from The Sun (New York, NY) [Expanded version] -->
+      <result>
+        <id>https://chroniclingamerica.loc.gov/lccn/sn83030214/1872-11-11/ed-1/seq-1/</id>
+        <rel>1</rel>
+        <text>
+THE GREAT CALAMITY.
+(Expanded Account)
+A catastrophic fire has reduced much of Boston to ashes,
+with immense warehouses, rich dry goods, and precious
+merchandise destroyed. Losses are estimated between
+$80,000,000 and $90,000,000, with additional real estate and
+merchandise losses bringing the total further upward.
+The article details the rapid spread of flames and the
+devastation of the business district, as well as the ensuing
+financial panic.
+        </text>
+      </result>
+      
+      <!-- 5) "THE FIRE-FIEND IN BOSTON" from The Daily State Journal (Alexandria, VA) -->
+      <result>
+        <id>https://chroniclingamerica.loc.gov/lccn/sn85042224/1872-11-11/ed-1/seq-1/</id>
+        <rel>1</rel>
+        <text>
+THE FIRE-FIEND IN BOSTON
+THE HEART OF THE CITY IN ASHES
+BURNS FIFTEEN HOURS.
+The Postoffice and Sub-Treasury partially burned.
+Mansard roofs, granite and iron walls, and wholesale
+trade areas have been utterly consumed. A financial
+panic is feared as government aid is invoked and cities
+like Chicago come to assist.
+        </text>
+      </result>
+      
+      <!-- 6) "THE BOSTON FIRE" from The Sun (New York, NY) -->
+      <result>
+        <id>https://chroniclingamerica.loc.gov/lccn/sn83030214/1872-11-12/ed-1/seq-1/</id>
+        <rel>1</rel>
+        <text>
+"THE BOSTON FIRE" – As reported by The Sun (New York, NY) on November 12, 1872, the flames were checked by the following morning. Seventy acres burned with losses estimated at nearly $100,000,000. The article describes somber scenes in the streets, noting that most insurance companies are expected to cover their losses, and that many of Boston’s old granite buildings were blown up in the blaze. The piece also notes a flurry in Wall Street, highlighting Boston's resilient spirit and the immediate relief efforts.
+        </text>
+      </result>
+      
+    </results>
+  </topic>
+
+  <!-- ================= BELLE GUNNESS MURDER FARM ================= -->
+  <topic>
+    <id>https://guides.loc.gov/chronicling-america-belle-gunness-murder-farm</id>
+    <results>
+      <!-- 1) "Police Are Mystified" – Palestine Daily Herald (Palestine, TX), May 6, 1908 -->
+      <result>
+        <id>https://chroniclingamerica.loc.gov/lccn/XXXXXX/1908-05-06/ed-1/seq-1/</id>
+        <rel>1</rel>
+        <text>
+…Find Three More New Graves on the Place of Mrs. Belle Gunness Today  
+Woman Missing  
+Chicago – Special to the Herald – Chicago, May 6. The coroner declared today that he would examine the body of Max Sorenson, the first husband of Mrs. Belle Gunness, to determine if possible the cause of death.  
+Fiendish Deeds – La Porte, Ind., May 5 – With five bodies already unearthed, Sheriff Smuizer and Coroner Mack will continue their search tomorrow for other alleged victims of Mrs. Belle Gunness, who, to all indications, was one of the most fiendish murderesses of the century and who was recently killed along with her three children through the burning of her country home one mile northeast of La Porte.  
+Of the bodies so far unearthed, two have been identified – those of Andrew Heldgren, a wealthy bachelor of Aberdeen, S.D., and Miss Jennie Olsen, an 11‑year‑old stepdaughter of Mrs. Gunness. The other three bodies are so badly decomposed as to make identification impossible.  
+The discovery of the bodies was brought about by the appearance of John Heldgren of Aberdeen, S.D.—brother of Andrew Heldgren—in La Porte, in search of the missing man. With the information that his brother had come to La Porte to wed Mrs. Gunness, having turned over his property to her, he became convinced that his brother had been the victim of foul play.
+        </text>
+      </result>
+      
+      <!-- 2) "Federal Authorities Order All Matrimonial Agencies in Chicago Arrested Since Gunness Exposure" – The Paducah Evening Sun (Paducah, KY), May 8, 1908 -->
+      <result>
+        <id>https://chroniclingamerica.loc.gov/lccn/XXXXXX/1908-05-08/ed-1/seq-1/</id>
+        <rel>1</rel>
+        <text>
+More Bodies Brought to Light l
+Buried on Farm of Female
+Blue Beard Near Laporte
+IndChicago
+Chicago May Sl1nltell States
+District Attorney Sims ordered the ar
+rest of every manager of any matri
+monlal bureau In Chicago following
+tho revelations made In connection
+with the Gunnesa house of horror
+at LaPortc
+latorteIllgghig
+Illgghig III Chicago
+The police department today began
+diggmg In the yard of the place occu
+pied J y Mrs flounces while she lived
+here at 618 Alma street t expecting to I
+end bodies It Is bsiloved she prac
+tired her profession here
+Chicago May 8Mrs Belle Gun
+ness of nportc l Ind bought her
+poisons In Chicago
+She wns positively Identified from
+several of her pbotosrapliH and her
+official description as a woman who
+was frequently seen In the neighbor
+hood of Wubash avenue and Harrison
+street us recently as four months ago
+and who attempted t1 l purchase mor
+phine In u drug store at No 309 Wn
+burti avenue
+avenueMor
+lore HiHllcH Found
+Iaporte Ind May 8Shorll nf
+tar tho search for bodies burled nt the
+Gunmss farm was resumed today an
+ether skeleton making the tenth on
+earthed since Tiu eday was discovered
+It I Is Impassible to determine the sex
+of tho victim Another confuted
+maw or bones was found later The
+sheriff believes the gravo contains two
+bodies Decomposition has gone so
+far It Is difficult to tell whether there
+are one or two bodies In the grave
+Several bones of another body were
+found shortly before noon two foist
+from thoeo first found today This
+makes three bodies uncovered today
+and twelve since Thiirmlay
+Ilrsldn the last Imnch I of bones
+which showed burns sips a nictnl
+frame of a womans pocketbook All
+efforts are being made today to find
+the skull of the woman body In the
+ruins tr the house Ashes In the cel
+for are to be screened In the jPort to
+find rome part of tho skull
+MaxFon a farm hand rays Mrs
+GunncsM had planned to have a power
+garden this year on the coot hlo
+most of the bodies were found
+The first skeleton lay In n wooden
+box thrle feet under the surface
+Other bones arc a few feet jt wny A
+pair of womans shoes were In the box
+They were heavy fart l of the shoos
+were burned Some bones showed
+signs of lire The body In Iho box
+had been dismembered exactly In the
+same way ns thaw pond before Dig
+        </text>
+      </result>
+      
+      <!-- 3) "Tale of Horror" – The Times and Democrat (Orangeburg, SC), May 8, 1908 -->
+      <result>
+        <id>https://chroniclingamerica.loc.gov/lccn/XXXXXX/1908-05-08/ed-1/seq-1/</id>
+        <rel>0</rel>
+        <text></text>
+      </result>
+      
+      <!-- 4) "Lured to Death by Love Letters" – The Washington Herald (Washington, DC), May 10, 1908 -->
+      <result>
+        <id>https://chroniclingamerica.loc.gov/lccn/XXXXXX/1908-05-10/ed-1/seq-1/</id>
+        <rel>1</rel>
+        <text>
+Belle Gunness hereabouts titan th by saying sayingthat aylngthat sayingthat
+that that when it was announced at nightfall nightfalltoday nlghtfaIltoday nightfalltoday
+today that no more bodies had been dug dugup dugup iugup
+up in that garden gard ot death on the Gun Qtnvnese GunnS Gunne
+nese nS ne place everybody in Laporte was sur surprises surprhie surprie
+prises prisesAlways prhieAlways prieAIwys
+Always in her lifetime Jl etlnae suspected and andfeared andfred andfenred
+feared the woman has now ow become in the thepublic thepublic thepublic
+public mind a perfect paragon of blood bloodlust blCHdluI b1odILt
+lust luI craft and nd treachery Apparently Apparentlynobody Atp Anparentinobdy re Uy UyO
+nobody O Y would be surprised to leant that thatevery thate thatevery
+every e lT square yard of r her ie ftftyacre farm farmis farmIs frrnI
+is I sown with the bodies bod of her victims victimsMeantime victimMeantime vlctfmeMelLtIme
+Meantime where is Belle Gunness Are Arethose Aretboe Aree Arefragments
+those fragments of a female body that thatlie UNitlie thatHo
+e
+lie in the morgue charred past recogni recognition recognition rognition
+tion tion really hers hers or are re they tbetthe the remains remainsof rem remainsof Ju Juor
+of some one more of t her beclettms victims fJetIIM intended intendedto
+to throw dust in the th eyes of the police policeuntil policeunUI policeuntil
+until the multimurderer multlmu er makes good her herescape herI herescape
+I
+escape pe
+Mystery Mystor Is 1 Xot ot Cleared ClearedThere ClenrctlThere ClearedLbsre
+There are so many drcumwances to tosupport toqpport toiPPOrt
+support iPPOrt either theory that the case re remains re remains reflalns
+mains today ae mysteriof myeter1uas ae it was last lastTuesday JutTueadQ lastTuesday
+Tuesday when the murder garden yielded yieldedup yieldedup Yieldedup
+up its first grim fruit fruitMeanthna fruitMIDtfma fruitManthnn
+Meanthna certain things thIa stand nd out as asfacts astacbrhanl astactsbax1
+facts tacbrhanl hard and brutal facts that cannot cannotbe e JlltOtbe rnwt rnwtbe
+be explained expl led away awaySince awarSlnca awaySince
+Since little Dun Hudson and ad Joe Max Maxson Muson Maxson
+son got to work with their pinks and andspades andspades I
+spades spad five day days ago they ha hevs re dog d g ap apwhat wPbat upwhat
+what bat the doctors s y are re tile remnants reeinan of often otlen often
+ten human hoW bodies bodiespit bodiespour I IlWr
+pour of them Wit Jit 1 1lilt laj lajpit
+pit about tour 1ty byOnly ay s vfyft vfyftOnly it itOnly
+I I1Itd
+Only three of them have been identi identified identifled
+fled with any certainty The first was wasAndrew wasAndrew wasAndrew
+Andrew K Ii I Heigelltn HIiIU a mWdJesged Nor Norwegian Norwectan Norwegtaii
+wegian lured from his home botM at Alter Aberdeen Alterdeen Aerdent
+deen S Dak by the expectation of mar marriage marriare marrIie
+riage with the welltodo widow widowTh wtdowThe widowThe
+Th The second was as O C Budsberg an anelderly anelderly 11 11elderly
+elderly farmer from lola Wis The same samebait amebait samebait
+bait brought him to his death The last lastof Jutof lastof
+of the three identified J nttled bodies was Jennie JennieOlson JennieOl8on JennieOlson
+Olson an eighteenyearold ei bteenJear I girl and od the theadapted theadeptH thede
+adapted de daughter of Delta GtaRn ua tunasua a All AJ1the Allthe 1 1tbe
+the remaining six whose ho bodies bod this tb tr trrinla tar11b18 tsrriNe
+rinla little garden has yielded were men menwith menwith
+4 with a single sinr exception and when that that1s thatis
+1s 1 said sal ia all that is known of them has hasbeen basbeen hasbeen
+been stated
+statedAH
+AH Ten ici Are Slain SlainThat SIuluThat SlainThat
+That all ten of these were murdered murderedthere murderedthete murderedthere
+there IB no doubt As 4 to the four whose whosebodies whoHbodies whosebodies
+bodies were found foa buried beneath the theruins theruins theruins
+ruins of the house on the morning of ofApril ofApril ofArt1
+April 28 2S there is some doubt Three of ofthem orthem ofthem
+them were children of this JJueretta Bor Borgia Borgia Borgte
+gia of Laporte Laportetwo two girls and a boy boyMyrtle boyMyrtJe boyMyrtle
+Myrtle aged a eleven Lucy nine and andPhilip andPbllip andPhilip
+Philip five In the identity of the fourth fourthlies fourthlies fourthlies
+lies the solution of t the problem problemMurder problemurder problemMurder
+Murder urder for revenue only was apparent apparently
+j ly the passion that consumed Belle BII Gun Gunness GunneaL Ginacm
+ness That several of her victims were werepersons werepersons werepersons
+persons from whose death she could got gotprofit getprofit gotprofit
+profit in a pecuniary p way in no man manner manner mannet
+ner controverts c ntrover8 this statement In every everycase everycue everycase
+case of wholesale murder there have hll been beensome bMnsome beensome
+some victims who died because their theiralienee theirstlen theirsilence
+silence stlen e was deemed more precious than thangold thangold thangoki
+gold In such a position Jennie J nne Olson Olsondoubtless 0150ndoubUea Olsondoubtless
+doubtless found herself This adopted adopteddaughter lutOptOOdaughtfr nooptoddaughter
+daughter was a simpleminded quiet girl girlwho girlwho girlwho
+who was known to the neighbors Jlet bors chiefly chieflybecause cbiefi30auae chieflybecause
+because auae she did more work than any anyhired anyhired anyhired
+hired man She was liS BoDe Gunness pret pretty pretty pretty
+ty slave And yet the mistress feared the theslave Utelave theslave
+slave lave So the slave died and vs buried buriedin burledIn buriedin
+in quicklime in the same death garden gardenthat gardenthai gardenthat
+that had received the bodies of others otherswho othersr otherswho
+r who died because they had money moneyNot moneyNot moneyNot
+Not Attractive Personally PersonallyWhat Pcronnllyat PersonallyWhat
+What at sort of woman was this Astound Astounding stoundlug
+in lug murderer That is a hard question questionand questfoand questionand
+and yet something can be done toward towardanswering towardaDIIWertDl towardanswering
+answering She Sh was a Norwegian who wholacked wholacked wholac
+lacked lac ed about two years of the halfcen halfcentury haItcentury halfcontury
+tury mark She Sb was born in Norwayf1MI Norway Norwayend Norwayand
+end came ean to America as a young girl In InMocfo InQqo Inhi
+Mocfo Qqo m In uji she married Max l x Soren Sorenson Sorenson Sorenson
+son fellowcountryman He died sud suddenly suddenly cuddenly
+denly In UM UMTwo 1MTwo IISOTwo
+Two years later she married Gunness GunnessHe GunnessHe GunnessS
+S He also died suddenly as will be seen seenDeath sennt
+t 1 Death De th sudden and mysterious attended attendedBelle attend attendedBells d dBelle
+Belle dimness for many years When Whenshe Whenshe Whenshe
+she came to Laporte six years ago with withGunnesfi withGo withOjinnees
+Go Gunnesfi nn ees Mrs Gunnass was a a fat coarse coarsefeatured coareefeatured coarsefeatured
+featured woman who stood about five flvofeet tlvofeet fivefeet
+feet seven and nd welShed about 230 pounds poundsShe poundsShe poundsShe
+She had a big heavy head a mop of ofcoarse ofeoarse ofcoarse
+coarse hair of a muddy brown little eyes eyesthat ayestbat eyesthat
+that just missed being black huge hands handsand handsand handsand
+and arms but feet grotesquely small for forthe forthe forthe
+the burden burd n they they had to o support Every Everybody Everybody Everybed
+body bed who knew her agrees that she was wasffcr wasfar wasfar
+far from attractive attractiveMost attractlnMost attractiveMost
+Most of her acquaintances desorlbe her heras herf heras
+f as repulsive repulsiveSomo Some of her neighbors go gofurther gofurther gofurther
+further Moro a devil than a woman Wmanwas womanwas womanwas
+was the way William Desslelen put it itand 1t 1tand itand
+and he ought to know because bis hlstarm hlstarmis farm farmis
+is next to tho Gunness place placeCordial placeOortllal placeCortIlal
+Cordial at First Only OnlyMy OnlyMy OnlyMy
+My aunt was always a strange strangewoman strangewoman strangewoman
+woman her nephew John Lawson told toldthe toldtile toldthe
+the police 1 the other day When you youfirst yoUfirst youfirst
+first knew her she would be very V ry cordial cordialThen cordialThen cordialThen
+Then she would get offish offishShe offishShe oflishShe
+She has alweys been offish to say the theleast theleast theleast
+least in Laporte Her home for years yearsContinued yoorS yoorSontln yearContinued
+Continued ontln ed on Pope 3 Column S SSome SSome 5Some
+Some lumber firms 1Jrm say ay times vrlUBooa vrlUBooabe wlUsoobe 11100 11100be
+be better and are holding up pricea prl prIccsh
+h
+0
+THE THER9LL ROLL OF DEATH DEATHIN DEATHIN DEATHIN
+IN THE GUNNESS CASE CASEFeJteving CASEFelleMn CASEFellewin
+FeJteving Fellewin u is the roster of bodJes BO far farfound farfo farf
+found f d at the t e murder m rdw factory r of Mrs 1rt Gun Gunness Gunneeta Gunne5
+ness neeta ne5 IB Laporte Ind IndMYRTLE IndIYRTL lad3IYRTLB
+MYRTLE IYRTL SOUEXSON teed eleren elerendaughter elenDdaUhter eletendaughter
+daughter of Mrs In Gunnws burned to death deathin deathIn th thIn
+in the Gumesj Gum aa home brcheLUCY homeLUCY borneLUCY
+LUCY SORBNSON SORB SON tged red nine joungost joungostdaughter J ouneat ouneatdaughter DfIst DfIstdaughter
+daughter ef a Mrs Gmmess who likewise likewisewas Itkew1Jwas ltkewiaaras
+was ras burned to death in the fire firePHILIP fi fiPHILIP firePRILIP
+PHILIP GUNXfcSS GUNN SS aged fire the son on of ofMra orMu ofMrd
+Mra GwneM GIi burned in the destruction of ofthe ofthe ofthe
+the Gai GUDeM e house bouseANDREW 1MaueANDUBW houseANDIIIW
+ANDREW HBLGELEIN aged fifty fiftybachelor fertrlIae futybatheior
+bachelor lIae elor of Aberdeen S S Dak tuitar for ftrMB ferMI8 forMa
+MB Onions GI II8M1 bend who came to Laporte LaporteJaiwarj LaporteJanlu LaporteJanuary
+January Janlu 5 5 1903 100a I9O and disappeared three vwfcs ueea ueea3aer vwfcskter
+kter after drawing J3flQO 3Ocfl from bank bankJENNIE hankJBNNIE bankJSN8E
+JENNIE OLSON aged seventeen filnteen daugh daught daugittN
+tN t r of Anton Olson of Chicago wham rh a Mrs MrsGvMaasa Mrsteok 1ra 1raOvabeM
+GvMaasa teok to alas vltea eight years 8US of ofage ofa ofOLE
+age a
+ageOLE
+OLE 014 B BUDSBERG who came from fromIota fromJoIa frernlola
+Iota Wk about a year ago in answer to toa toa toa
+a matriiwatel mairim rnatr nenisl l adratfceoynt adrertJ5e nt aad wbe he drew drewJl drewfrem drewL5O
+Jl L5O DO fi horn m t6 borne bask baakUaUwttiM 1MaIlLU baskUnitlintifiM
+UaUwttiM U l body headless of a raman ramansupposed ImnADMIfPtSed wetmamicesed
+supposed at that to be Mrs GtiffittM Ou telt teltwfciab ttwld t twhi
+wfciab wld nay rne be th tile body of a tlqtlm glaced glacedto J ared aredto ed edto
+        </text>
+      </result>
+      
+      <!-- 5) "Fifteen Victims Die in Big Murder Plot" – Valentine Democrat (Valentine, NE), May 14, 1908 -->
+      <result>
+        <id>https://chroniclingamerica.loc.gov/lccn/XXXXXX/1908-05-14/ed-1/seq-1/</id>
+        <rel>1</rel>
+        <text>
+Finding of Nine Bodies in Yard
+Reveals Mysterious Whole
+sale Killings.
+WOMAN CALLED A BLTJEBEAED
+Supposed Death of Herself and Chil
+dren in Fire Only Adds to
+the Puzzle.
+Wholesale murder murder more
+ruthlessly premeditated and diabolical
+ly executed than the famous Holmes
+castle crimes in Chicago was revealed
+at Laporte Ind. Tuesday when five
+mutilated bodies were dug up in the
+back yard of the home of Mrs. Bella
+Gunness who together with her three
+children are supposed to have met
+death when their house burned one
+week before.
+Fifteen persons already have a place
+on the list of known or probably slain
+and circumstances point to Mrs. Gun-
+ness as the arch-conspirator in at least
+twelve of the crimes. Until this time it
+i had been accepted as true that she and
+j her three children had met death in the
+fire that destroyed their home but now
+
+the suspicion arises that the bodies that
+p
+were found in the smoldering ruins
+were brought from some hospital or
+medical school for the purpose of cre-
+j ating the belief that Mrs. Gunness and
+her family had pas.sed from existence.
+Ijixt of l\uo\vii A'iotims.
+ITclgoloin. Andrew 40 years old. bach
+elor. Aberdeen S. D. suitor for Mrs.
+Guunoss hand who came to Laporto in
+January and disappeared ono mouth later
+after loaning the woman $1.500 body
+dug up to-day.
+Gunness Jennie Olson. 16 years old
+adopted daughter of Mrs. Gunness disap
+peared in September IfXKi. ostensibly to
+attend school at Los Angeles body dug
+up to-day.
+Unidentified man believed by Sheriff
+Smul/cr to have been an admirer of the
+woman.
+Unidentified boy. apparently 8 years
+old mutilated body in gnnnysack.
+Unidentified girl about 7 years old
+mutilated body in gunnysaek.
+Gunness Joseph husband of Mrs. Gun-
+ness whose death at Laporte four years
+ago had always remained a mystery.
+Sorensen Mads woman's first hus
+band who died under mysterious circum
+stances in Chicago eight years ago.
+Gunness Mrs. Bella believed to have
+been burned to death in fire which de
+stroyed lier home.
+Sorensen Myrtle. 11 years old eldest
+daughter of Mrs. Gunness thought to
+have perished in the fire.
+Sorensen Lucy Q years old another
+daughter also believed to have been a
+victim of the fire.
+Gumiess. Philip 5 years old. youngest
+child said to have been killed in the tiro.
+Lindblom. Olaf. 35 years old. of Wis
+consin employed by Mrs. Gumiess on the
+farm. When ho. disappeared Mrs. Gun-
+ness gave it out that he had gone to
+Norway.
+Gorhalt Eric. 40 years old. of Wiscon
+sin worked five months for Mrs. Gun-
+ness then he disappeared.
+Man from Ohio. 50 years old. name
+not learned worked on the farm and
+owned a horse and buirny. Dis-appoarod
+and Mrs. Gunness fell heir to the horse
+and buggy.
+la the arrest of liay Laniphere a
+CHRONOLOGY OF INDIAHA
+JrlULTI-MUKDER MYSTERY.
+Mads Albert Sorensen Austin. 111. dies
+mysteriously V.OO His widow col
+lects $8,500 insurance.
+Candy store at Kli/.aboth btreet and
+Grand avenue. Chicago owned by Soron-
+sons burns. Insured.
+Two peculiar files in Austin home. In
+surance collected.
+Widow marries Joe Gumiess- Moves
+to Laporto farm. Adopts Jennie ONn
+Gumiess killed (1001) Widow s.i\
+meat ck-aver fell on his head. Collo'-ts
+o,500 insurance.
+Ray Lamphere goes to work for Mrs.
+Guiltless as hired man.
+Widow sets dogs on visitors.
+Neighbors see lanterns on farm n 2
+a. in.
+Jennie Olson disapprs. Real pircnts
+are told she is in Ix s Angeles school but
+can not find her J1KXJ
+Andrew llolgelein Aberdeen S. 1)
+aii-swors matrimonial ad and arrive.t
+Laporte farm. Loans Mrs. Gunncs 1.-
+500. Disappears with like amount in
+pockot. Widow says lie wont to Noiw i\
+Mrs. Gunnevj HT tolls shonff
+strange man killed a child in woods near
+farm. Sheriff finds only empty gra\
+Ray Lamphere arrested for annoing
+Mrs. Gunnels.
+Widow tells lawyer April 251 tint
+Lamphi'ie intends to kill her. Draws up
+will.
+Home burns April I'.G. Bodies of thro
+children and headless woman found in
+ruins.
+Lamphere arrested in hollow tiv. h d
+in r.
+M.iA. K. ib-it'li in Im i- li ill- of
+brother bunod near hoii o. Jennie 'SCM\
+body also found.
+Nine unidentified bodies of men and
+ihihlron are found buried near house.
+Most bodies lie on mattresses under four
+feet of earth.
+May j. Joe Ma\soii. farm hand tolls
+police he dus holes on orders of Mrs.
+Gumiess. but never filled them.
+J-Xpres mon toll jx lko of mysterious
+arrhal at farm of many bis trunks.
+former servant of the woman. Sheriff
+Smulzer believe some liirht may be
+thrown upon the circumstances sur
+rounding the deaths of at least some
+of the victims.
+Lamphere before the fire had trouble
+with Mrs. Gunnos.s. Uo had declared
+about town she was trying to "iret rid"
+of him because he knew too much. He
+has told several conilictini stories
+concerning his relation with the wom
+an and his presence in the neighbor
+hood of the Gunness home the night it
+burned.
+The discovery of the Ixnlies led ex-
+pressim'ii to tell of the delivery of five
+trunks to the Guiines-s farm during the
+last six months. This fact has caused
+the authorities to incline to the theory
+that the place may have been a "clear
+ing-house" for murders. They suspect
+that wealthy person after being lured
+to Chicago and killed may have l een
+packed into thc-c trunks sent to La
+porte and disjio etl of there. Lamphere
+in his cell declared Mrs. Gunness fre-
+nivntly asked him to buy poison for
+her. She wanted chloroform he said.
+Four of the bodies were found buried
+in a refuse pile about 150 feet from the
+house while another body was duir
+up within a few teet of the ruined
+home. It is he opinion of Coroner
+Mack and physicians who examined the
+bodies that th 'y were burned after
+death. Ilelirelein was easily identified
+by his brother although the remains
+had been badly mutilated. The body
+of the other man show- red mustache.
+The discovery of the bodies primarily
+was due to the efforts of Mr. llelge-
+        </text>
+      </result>
+      
+      <!-- 6) "Murderess" – The Stark County Democrat (Canton, OH), May 22, 1908, Weekly Edition -->
+      <result>
+        <id>https://chroniclingamerica.loc.gov/lccn/XXXXXX/1908-05-22/ed-1/seq-1/</id>
+        <rel>1</rel>
+        <text>
+Acting on
+private information, Mayor Darrow, of
+counsel for Ray Lamphere, who will
+be indicted for the murder of Mrs.
+Belle Gunness and her three children
+and Andrew Helgoleln, of Aberdeen,
+S. D tonight entered Into communi
+cation by cable with the police ot
+Scotland Yard, London, and the au
+thoritles in Canadian cities, advising
+ttKsm of tho reward of $1000 which
+will be paid by Laporte county for tha
+finding of tho murdeiess Following
+his declaration that tho teeth Identi
+fied as those of Mrs. Gunness are in
+too perfect condition to have been In
+the fierce blaze which destroyed the
+head, and charred, baked and burned
+the rest of the body, Mayor Darrow,
+also took steps to consult with experts
+upon whom he relies to disprove tho
+identification of tho teeth. Coronor
+Mack added the weight of his opinion
+that Mrs. Gunness' body was that
+found In the ruins of tho charnel
+house when ho tonight officially de
+clared: "It is my verdict that the body su
+viewed is that of Belle Gunness; that
+she camo to her death through felon
+ious homicide; and that the perpetra
+tor thereof Is to me unknown."
+Coroner Mack says that so far as
+Andrew lfelgelein, of South Dakota;
+Ole Budsberg, of Iola, Wis and Jen
+nie Olson, the adopted daughter ot
+Mrs. Gunness, aro concerned his ver
+dict will be that their bodies wero
+properly Identified, that they came tn
+their death from unnatural causes,
+that they were burned to cover up
+murder and that Mjrs. Gunness had a
+motive for killing them and was guil
+ty either alone or with accomplices
+of murder.
+Mrs. Henry WItzer of Toledo, walk
+ed among the dead at the morgue this
+morning hoping that there might bo
+somo mark of identification on onn of
+the skeleton forms which would prova
+that her daughter was one of the vic
+tlms of the house of tragedy. Tears
+rioursed down tho mother's cheeks as
+she looked upon the headless and dls
+membered bodies. There was no Iden
+tification, but the Toledo woman, hop.
+ing that some tragedy might solve
+the mystery of her daughter's strange
+disappearance, came to Laporte like
+scores of others, In the hope that the
+Gunness murders would unfold th3
+mjstery which she has vainly labored
+to solve since 3902, when Frances
+Witzler, young and pretty, a college
+graduato with life before her, left
+her home never to return.
+Mrs. Witzler believes her daughter
+met death in the charnel house.
+The grand jury is making splendid
+progress In the taking of evidence.
+Theie is a disposition on the part of
+the stato's attorney, Smith, to conclude
+the labors of tho body of inquisition
+not later than Friday, when the 'ndict
+ments against Ray Lamphere w '11 un
+doubtedly be returned.
+With tho reading of tho Swedish
+committal service tho skeleton of Jen
+nie Olson, was this afternoon lowered
+Into a grave at Patton's cemetery.
+The plot of giound in which she lies
+adjoins tho burial place of Andrew
+Helgoleln.
+Dr Martin received tort? from
+Washington a letter descrlb o. wo-
+.id be.
+TWO DAY TICKETS
+TO
+1
+3 T3jR.fjHJ' TKP- 5
+JJk I
+ash nit: whcvumij.
+EVERY SATURDAY AND SUNDAY.
+T&0 ROUND
+JB.I
+man seen on tne street in'
+lioved'by tho writer to b -4 o. Gun
+ness. The man does .five his
+name, but says he saw oman ho
+describes on tho oven y if May 13,
+at 15th stivet and .cot, before
+he ever saw a pictu o tho l-aporte
+murderess. ij
+Attorney Worde the defense, la
+still a firm bolievei tho theory that
+Mrs. Gunness made her escape. Ho
+claims tha a woman to thoroughly
+ei&ed with the instincts of criminal
+ity, as she, would resort to such!
+means of diverting suspicion "She
+could very easily havo a dentist re
+movo those plates from her mouth,"
+ho declares, "and leave thorn as sho
+left tho lings, near the bodies found
+In" tho basement ot her house."
+The searching of tho debris today
+brought another gold ring to light.
+It bears the initials "S. B., May 28,
+1907," and It may prove a factor in
+solving the identltv of another body.
+States Attorney Smith stated to
+night on emerging from tho ;rand
+Jury room that he would ask for tho
+lndlrtment of Ray Lamphere on six
+counts. Four for the murder ot Mrs.
+Gunness and her three children, ono
+us accessory in tho Wiling of Andrew
+Helgeleln and one for arson.
+        </text>
+      </result>
+      
+      <!-- 7) "Mrs. Belle Gunness of LaPorte's Murder Farm" – Crittenden Record-Press (Marion, KY), May 28, 1908 -->
+      <result>
+        <id>https://chroniclingamerica.loc.gov/lccn/XXXXXX/1908-05-28/ed-1/seq-3/</id>
+        <rel>1</rel>
+        <text>
+RAY LAMPHERE, WIDOW GUNNESS' FARM HAND.
+Hay I.ainphere under arrest (it LuMrte, lud on suspicion of U'lng concerned
+Iij tin burning of tliu farmhouse of Mrs. Belle Gtinness nnd the murder
+of the Gunnes children nnd tlielr mother, formerly wns employed us ii fnnn
+baud by the Widow Ounness. It Is ulleged thnt he made love rli her nnd wn
+repulsed, Mrs. Ounness twlng on the trull of men with money who were
+Vengeance and Jealousy an- alleged an motive for burning
+the house and destroying the fnmll.v Lniuphere stoutly asserts his Innocence
+nnd declare that lie "always thought there was something wrong at
+that place." inetttdng the Outlines fann He toltl the authorities thnt aUmt
+two yenn ago a large man caiue to the farmhouse who was wild by Mr.
+Gunnes to lx) a BUltor for the hand of her adopted daughter. Jennie Olsen,
+and flint he never kneu uhnt Uiiwie uf the man. Miss Olson's tvly w:im
+one f Uhm found burled n the premium, along with eight others. When
+CHiiitht I jiii phetv wrm hiding In a hollow tree.
+t
+X
+RUINS 0? GUNNESS HOUSt, LAFORTE.
+I'ie inrinliiui of Sirs Belie Gtmtic a n.i e frem Luporte. Iml., was
+totally destroyed by lire on the night of April 1!7 This lire led to the discovery
+of the nine IhmIIos of munler tlrtlms burled on the premises and developed a
+crime mystery which linn horrllled the nation. The house was built of brlok,
+with an addition built of lumber. Joseph Muxson, the hired man, slept In n
+room nlKivM the wooden kitchen, nnd he says thnt lie nuoke nlniiit -1 o'clock
+In the timmlui; stlilel by smoke which was pouring out of the brick part of
+the house He tried to enter thnt pnrt but could not. Several neighbors who
+arrived shortly nIo were driven back by tlntnes The charred bodies of
+three children found In the ruins were IdeiitlllHl as thoce of Mrs Guntiess.
+while the Ixxly of a woman, from which the head was missing, either burned
+off or decapitated prior to the fire, wap believed at first to be that of Mrn.
+(Junnosi. Kulweiiuent disclosures ns to the "murdt r farm" lead some to
+believe thnt Mm. (jiinness plnccd the headless trunk of n murdered woman
+In the house to serve nn a blind In effecting her own escne from Justice.
+w
+JOStrt, .viAaSON, WHO WAo EMPLOYED BY MRS. GUNNESS,
+Josupti Muxhon, who was employed ab man of all work around tho house
+and farm of Mm. Helle Ounness near Luporte, lud., poluted out to the authorities
+certulu Hpots In the yard of the burned farmhouse where, he said, he hud
+bceu Instructed by Mrs Gutfliesa from tlmo to time to deposit such rubblah
+ns was to be thrown nway. The nine bodies of persons supposed to bur
+Oecu murdered by Mrs. dunness were dug up at points Maxson Indicated.
+-Jl
+T l" i-
+tH .ii.)-"
+HH9t$M sis1
+MI. I MI tfysi
+BWPBBff StEP Wf;. fWp 'iff j&mKk 4
+UVKKSKmi
+K0&J;fcl2?imfij
+nntHjiUM
+Bw 1ft
+iBofH
+ASSv VT7"
+rag
+SS24"
+18? KUCKilg r"
+3
+'v&3 ossa a
+MRS. BELLE GUNNESS, OF LAPORTE'S MURDER FARM.
+Mrs. Jlelle Ounness, tho widow mispWed of the murder of the persons
+whose iKvlles were dug npffroui Uio premlsi of her burnwl home n mile from
+Luporte. IntL, waa n Norwegian woman whoso mnltlen name was Tnulson.
+She was married first to Mar SorwiHcn, who died under suspicious
+Her second husband. Philip Ounness, dlisl under similar
+It wnfl'reiwrted at first that the body of Mrs. Ounness was found
+with thoso of her threo children In the ruins of her houses. The head of tho
+charred remains of tho woman found in the rulas was missing, which fact
+caused the Authorities to suspect that Mrs. Ounness herself hnd killed her
+children nnd set tire to tho dwelling after placing In the house the decapitated
+liody of one of her ndult women rlctlms in nn effort to cause the belief
+that sho had perished in the fire. Mrs. Ounness hnd lind an enormous quantity
+of gold work done on her teeth The grewsome mystery of the missing
+head, It was said by those who held the theory of the flight of Mrs. Ounness,
+was explained by the woman's r t! :it 'o left her substitute's head on
+the body It would be evident thai k..o her- s not a victim of the fire.
+til ''?t
+I
+IP Ct' v?lK iV'eisJKf.
+If 1 Sff
+It,9 I Vvife ',mM
+IIHwl& vtfHilsEtiyBB
+STATE
+AT"iu.... ..Of U.
+SMITH.
+V
+f
+ANDREW HELGELEIN, ONE OF MRS. GUNNESS' VICTIMS.
+One oi tie ...e uhiIi.s disinterred from the premises of Mrs. Belle Ounness,
+near Luporte, lud., wns Identllled as thut of Andrew llelgeleiu, a wealthy
+stockman of Aberdeen, S. D., forty yours of age. Ho wus a Norweglsui, as wiu
+Mrs. Ounness. who had advertised for a prospective husband with means.
+Helgeleln stnrtetl for Luporte Jan. .'5, since which date nothiug was heard from
+him by lib relatives, who were aware that ho hud gone to the Indiana wldowa
+home with matrimonial Intentions. It wns known also that he had drawn
+$3,000 from his Aberdeen bank account after arriving at Luporte. The theory
+Is that Mrs. Gunness killed Helgeleln to get his money.
+MRS. GUNNESS AND HER THREE CHILDREN.
+Mrs. Ilelle Gunness, the Indiana woman who Is believed by the police to
+have lured to her farm home near Laporte several men on mntrlmonlal pre-1
+tenses nnd then murdered them for their money, is said to have been qulto
+fond of her three little children, whose charred bodies were found In tho ruins
+of tho Gunness farmhouse, along with the headless trunk of n woman, who i
+was supposed at first to be the body of tlielr mother. The children wero
+Myrtle Sorensen, aged eleven, and Lucy Sorensen, aged nine, daughters of
+Mrs. Gunness by her first husband. Max Sorensen, and Philip Gunness, aged
+five, namesake of his father, who. like Sorensen. Is said to have died under
+suspicious circumstances.
+DH. C. F. MACK, CORONER, TAKING NOTES.
+Shortly after the discovery' of the first bodies that had been burled on the
+premises of tho Widow Gunness near Laporte, Ind., Dr. C. F. Mack, the
+coroner, arrived on the scene nnd wns busy taking notes for official use. The
+nine bodies of murdered men and women dug up In the yard near the ruins of
+the burned farmhouse passed under Dr. Mack's close scrutiny, as did also
+those of the three children and the woman found In the ruins. A Jury composed
+of physicians thoroughly examined the charred remains of the children
+nnd the woman nnd arrived at the conclusion that they were those of Mrs.
+Belle Ounness nnd her little ones. It wns Impossible to determine the sex of
+five of the bodies disinterred, they hnvlng been dismembered and also partially
+disintegrated by quicklime. Mr. Mack made copious notes for reference
+In future efforts to solve the horrible mystery nnd Identify the victims, most
+of whom are believed to have been men who were lured to the place by tho I
+matrimonial advertisements of Mrs. Gunness, who described herself as m
+rich widow wanting a husband with some money.
+JOHN HhLGELEIN, BROTHER Ui- JrJh 0- THE VICTIMS.
+Suspicion against Mrs. Belle Ounness was first aroused In Indiana by the
+.i,..,i n n.uri,i nt Toim i n n N'orweirinii from Mansfield, S. D.,
+who came to investigate the disappearance of his brother, Andrew Helgeleln,
+of Aberdeen, S. U. Andrew Helgeleln wus known to hare answered oue of
+Mrs. Ounuesa' adrertisements for a husband with money. lie leri Aueruceu
+on Jan- 3 to visit Mrs. Gunness nt her home near Laporte. After his arrival
+lu Laporte ho had drawn $3.0fX from Ills bnnk in Aberdeen. John Helgeleln,
+becoming worried because nothing further was heard from his brother, wrote
+to Mrs. Gunness, who replied that Andrew had departed for a visit to Norway.
+John Helgeleln Identified we of the first bodies found as that of hH brother.
+        </text>
+      </result>
+      
+      <!-- 8) "The La Porte Murder Farm" – The San Juan Islander (Friday Harbor, WA), July 11, 1908 -->
+      <result>
+        <id>https://chroniclingamerica.loc.gov/lccn/XXXXXX/1908-07-11/ed-1/seq-1/</id>
+        <rel>1</rel>
+        <text><
+          SCENES AT THE GOTNESS "DEATH FARM" HEAB IA POBTE, DTO.
+THE LA FORTE MURDER FARM.
+There Read
+Like a Story- of the Mid-Centuries.
+Like a chapter from the bloody rec
+ords of the mid-centuries is the ter-
+rible story unfolded by the authorities
+of La Porte, Ind., where wholesale mur
+der was done for years without anyone
+knowing or suspecting It. Criminal rec
+ords contain nc parallel of the grew
+some story revealed in the finding of
+the clearing house for murders kept by
+Mrs. Belle Gunness near the Indiana
+town. Just how many persons met
+their fate in connection with the bloody
+business carried on there will perhaps
+never be known. The skeletons dis
+covered on her premises and the fact
+that expressmen had many times de
+livered to her boxes and trunks now
+believed to contain human bodies form
+the chief materials for the construction
+of the strange story of her career. She
+is supposed to have lured rich men to
+Jier den by matrimonial advertisements
+and then made away with them for
+their money, and also to have run a
+murder "fence" for the benefit of her
+partners in the awful trade of human
+slaughter, the latter operating in Chi
+cago and sending the bodies of their
+victims to her for burial. It is the
+theory of the prosecution that Mrs.
+Gunness deliberately lured men to
+her farm by means of an advertisement
+in a Chicago newspaper, in which she
+represented herself as an attractive and
+amiable widow looking for a mate. She
+alleged that she was the owner of a
+valuable farm and sought a well-to-do
+farmer as a husband. After a visit
+from such a candidate she generally in
+duced him, it appears, to sell his farm
+and come to her with the proceeds of
+the sale, at which time she would de
+liberately murder him and bury his
+Vdy en the premises.
+For years this strange woman Is
+»«al(1 to have conducted her murder mill.
+while her neighbors remarked upon her
+good humor and her children mingled
+with others of their age in the neigh
+borhood. And the end of this record
+of. crime and mystery is shrouded In
+2*2 JI2I. WIL LIJS/I /TETTER^.
+uncertainty. A fire which destroyed
+the Gunness borne also disclosed the
+fact that her three children had either
+been murdered before the fire or that
+they had perished in the flames.
+In some respects the methods of Mrs.
+Belle Gunness seem similar to those
+of the infamous Bender family in Kan
+sas. Yet it is doubtful if the blood
+thirsty Kate Bender in her palmiest
+dnjTß was over equal to the awful
+crimes that are laid at the door of the
+Gunness woman. The story of the La
+Porte murder farm recalls the noto-
+rioos doings of the Bender family in
+Montgomery County, Kan., about forty
+years ago, and the famous case of
+Henry H. Holmes, who swindled insnr
+ino» companies and was held respon-
+CHECK. .FHOWIHtf TH»T HLL^rta
+P "WITHIXfcEIi/ 2LL OP HIS" S!AVIXt&.
+jible for the murder of quite a long list
+3f persons. He was hanged in Phila
+delphia. The Benders, husband and
+wife and son and daughter, were sap.
+posed to have murdered nine or tea
+persons and buried the bodies In the
+vicinity of their home, robbery being
+their motive. The Benders mysteri
+ously disappeared and their fate is un
+known, although rumora were abroad
+at the time that Indignant citizens put
+an end to their infamous careers.
+          /text>
       </result>
     </results>
   </topic>
+
+  <!-- ================== JACK THE RIPPER ================== -->
   <topic>
-    <id></id>
+    <id>https://guides.loc.gov/chronicling-america-jack-the-ripper</id>
     <results>
+      <!-- 1) "British Bits" – Salt Lake Daily Herald (Salt Lake City, UT), November 27, 1888 -->
       <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
+        <id>https://chroniclingamerica.loc.gov/lccn/XXXXXX/1888-11-27/ed-1/seq-1/</id>
+        <rel>1</rel>
+        <text>
+LONDON November 25rhe steamer
+Neiiburgh of Leith while on her voyage
+from Gracgermouth to Aarhus with
+coal foundered in the North Sea Six
+teen persons were drowned and one was
+rescued and landed in Norway
+A private person living near NottiD2
+ham has received a letter signed Jack
+Rippers pal stating that both the
+writer of the letter and Jack com
+mitted the recent murders in White
+Chapel district The writer says Jack
+is a Bavarian whom he first met
+aboard a ship returning from America
+and who exercised a mesmerjstic in
+fluence        </text>
       </result>
+      
+      <!-- 2) "Jack, the Ripper" – Sacramento Daily Record-Union (Sacramento, CA), December 18, 1888 -->
       <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
+        <id>https://chroniclingamerica.loc.gov/lccn/XXXXXX/1888-12-18/ed-1/seq-1/</id>
+        <rel>1</rel>
+        <text>
+"JACK, THE RIPPER."
+A Montreal Crank, Who ig Probably a
+Ripping Liar.
+Montreal, December 17th.—A man has
+been arrested here for assaulting a woman,
+who says he is "Jack, the Ripper." This
+evening, a3 Miss Florier Newcome was
+was walking on Lagauchetorie street, in a
+dark quarter of the city, a man suddenly
+dartea out of a gateway and caught her by
+the arm, exclaiming: "You must come
+with me!" The girl screamed, and break
+ing away, rushed along the treet, closely
+followed by the man.
+This man, when arrested, said: "I'm
+Jack, the Ripper! All Whitcchapel is
+looking for me! I have just arrived. I
+intended to give myself up, as I have
+alrtadly killed fifteen, and I'll yet com
+plete the number if you let me go. You'd
+better hang me by the neck till I'm dead
+He had a big knife, and said his real
+name was John Langhorn, aged 25,0f Lon
+don. He is detained for further examina
+tion.        </text>
       </result>
-    </results>
-  </topic>
-  <topic>
-    <id></id>
-    <results>
+      
+      <!-- 3) "The Whitechapel Fiend has Adapted a New But Effective Scheme" – Fort Worth Daily Gazette (Fort Worth, TX), December 22, 1888 -->
       <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
+        <id>https://chroniclingamerica.loc.gov/lccn/XXXXXX/1888-12-22/ed-1/seq-1/</id>
+        <rel>1</rel>
+        <text>
+Another Murder of a Woman in London
+is Charged to the Whitechapel
+Fiend Jack the Ripper
+        </text>
       </result>
+      
+      <!-- 4) "Is It 'Jack the Ripper' Again?" – New York Tribune (New York, NY), December 22, 1888 -->
       <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
+        <id>https://chroniclingamerica.loc.gov/lccn/XXXXXX/1888-12-22/ed-1/seq-1/</id>
+        <rel>1</rel>
+        <text>
+IS IT "JACK THE RIPPER" AGAIN
+IAN0THEK FALLEN WOMAN FOUND MiCRDlSREP
+IN A PimrRB OF LONDON.
+London, Dec. 21.?The body of a woman, wbo?-e
+name li unknown, was found yea tend bf morning in Un
+streets of Poplar, In the suburbs of London. An
+empty vial lay alongside the b.idv, and the impres?
+sion first formed wa* that the woman had committed
+suicide. At the covonor's inquest lo-day, however,
+the physicians who examined the bed] leettfied that
+there were no signs of poison in the stomach, and de?
+clared -heir belief that the woman had bass murdered
+by strangulation. They said the condition of the
+body Justified this belief, and In addition to that
+there was a mark on the woman's neck which showi-?l
+that a cmall cord had been Bad tightly around th Tba
+woman was of low cha-ra-cte.r. What the lumv ti
+found lt wa? fill warm. Il was lying in an __(en
+thorough faire, ard there ls r.o poealbuitj that th?^
+woman coule hav.. taloen her own life. Some persons
+believe that her murderer ls Identical with thfl Wt-te
+c ha pel ficml. wh/,, the-y think, has adopted .i
+method of disposing of his v*,t.lms.        </text>
+      </result>
+      
+      <!-- 5) "Cut Up The Corpse" – St. Paul Daily Globe (Saint Paul, MN), December 27, 1888 -->
+      <result>
+        <id>https://chroniclingamerica.loc.gov/lccn/XXXXXX/1888-12-27/ed-1/seq-1/</id>
+        <rel>1</rel>
+        <text>
+CUT UP TE CORPSE.
+A Philadelphia Murderer Em
+j ulates the Example of
+Jack the Ripper.
+He Dismembers His Victim
+and Puts the Pieces
+in Packages.
+Forty Innocent Children Rav
+ished by a Physician
+in Escanaba.
+Crazed by Grief, a Cincinnati
+Jurist Slows Out His
+Brains.        </text>
+      </result>
+      
+      <!-- 6) "A Change of Base" – St. Paul Daily Globe (Saint Paul, MN), December 28, 1888 -->
+      <result>
+        <id>https://chroniclingamerica.loc.gov/lccn/XXXXXX/1888-12-28/ed-1/seq-1/</id>
+        <rel>1</rel>
+        <text>
+Jack the Ripper Sends Cold
+Chills Up the Eacks of
+Belgians.
+Russia's Envoy to the Vati
+can Hampered by a Lack
+of Power.
+Home, Dec. 28.— Mr. Gladstone, in a
+letter to the Marquis Deriso. says that
+the position of the pope is important
+enough to merit intervention by inter
+national arbitration. After remarking
+that he promoted the Alabama arbitra
+tion scheme, Sir. Gladstone adds that
+"arbitration would possibly unlock a
+difficult question, and the 'project has
+his full and warm sympathy."
+A CHANGE OF BASE.
+Jack, the Ripper, Throws the
+People of Brussels Into a Spasm
+of Fear.
+Special Cable to the Globe.
+Brussels, Dec. 27.— This city has
+been thrown into a ferment of excite
+ment by the reception by prominent
+people of cards and telegrams announc
+ing the advent in the quaint old city of
+the famous "Jack, the Kipper." of
+Whitcchapel notoriety. King Leopold,
+the prelect of police and the court min
+isters are amomr the recipients of this
+mysterious being's delicate attentions.
+LACKS POWER TO ACT.        </text>
+      </result>
+      
+      <!-- 7) "The Mania for Murder" – The Sun (New York, NY), January 5, 1889 -->
+      <result>
+        <id>https://chroniclingamerica.loc.gov/lccn/XXXXXX/1889-01-05/ed-1/seq-1/</id>
+        <rel>1</rel>
+        <text>
+The Mania for Murder
+Tho English public a excited by tho occurrence
+murders In different of the
+currence of dllernt parts
+mucr pa te
+kingdom which bear so strong a likeness t
+those committed by JACK tho Ripper that
+they seem to b Imitations of his horrible
+work A In tho Whltechapol murders the
+bodies of the victims are mutilated The
+killing seems to b dono from a sheer mania
+for butchery none of the usual motives
+being discoverable
+I Is not at all Impossible that JACK the
+Hipper has started a new school of murder
+and murderers Human experience shows
+that tho more morbid tho criminal manifes
+tations the more likely they ore to stimulate
+imitation hi other diseased natures Mania
+breeds mania rather provokes It In minds i
+dispse t insanity 0 one hysterical wo
+man will set a whole hospital ward of women
+wa
+t screaming The notoriety of the Whit I
+chapel murders brought them t tho atten
+tion of that large number of persons whose i
+moral and Intellectual balance Is most likely I
+to bo and tho simple have
+t b upset nd among they I
+been and conversation the most engrossing subjectofthought
+The conditions favorable t tho spread of
+a mania for Imitation have therefore been
+present and the circumstance that JACK
+the Ripper has not been caught and punish
+ed for his horrible crimes has undoubtedly
+assisted in propagating a craze for killing
+for Us own sake Even the Insane a de
+terred from murder by dread of punishment
+and fancied immunity from tho penalties
+visited on the criminal becomes t them a
+Incentive to crime
+Tho failure of the London police t bring
+tho Whlteohapel murderer to Justice s ex
+traordinary In the history of crime is there
+fore I terrible social misfortune It Is making
+ing of him a hero and an example Morbid
+minds a likely t bo upset entirely by
+dwelling on his atrocities and his ability t
+commit them many times over without de
+tection Because ho I Inhuman a fiend In
+the form of a man ho excites devilish pro
+pensities uncontrollable In others except by
+te fear of certain punishment
+It I said by our police that oven hero In
+Now York there has been much tcrrornmong
+tho women of the street lest JACK tho Kipper
+should appear In person or stimulate others
+to engage In his horrible specialty The
+alarm of those women Is not surprising But
+In New York the career of such a murderer
+would b short Because of that certainty
+so generally understood wo are not likely
+to havo Imitations of the
+Imiatons Whltcchapol mur
+ders though unless JACK the Ripper Is
+brought to Justice they are likely t occur
+In England until he ceases t bo a subject of
+discussion and It
+public dicusion curiosity        </text>
+      </result>
+      
+      <!-- 8) "Jack the Ripper" – The Morning Call (San Francisco, CA), October 25, 1890 -->
+      <result>
+        <id>https://chroniclingamerica.loc.gov/lccn/XXXXXX/1890-10-25/ed-1/seq-1/</id>
+        <rel>1</rel>
+        <text>
+"JACK THE RIPPER."
+Another Mysterious and Bru
+tal Murder in London,
+Tlie Mutilated Body of a Woman Dis
+coVered in a Secluded Locality.
+Ealfour Staris on a Tour of Investigation
+Through the Western Counties
+oi Ireland.
+Special to The Morning Cam.
+London, Oct. 24.— The"Jaek-the-Ptipper"
+scare is on again to-uight. In a secluded
+1 art if the South Ilampstead locality was
+found the dead body of a woman whose
+head had been nearly severed, while the
+l dy showed kicks and bruises sufficient to
+cause death. The victim was a woman of
+low repute, and this was sufficient to start
+the cry of "Jack the Ripper."        </text>
+      </result>
+      
+      <!-- 9) "It's Jack the Ripper" – St. Paul Daily Globe (Saint Paul, MN), April 25, 1891 -->
+      <result>
+        <id>https://chroniclingamerica.loc.gov/lccn/XXXXXX/1891-04-25/ed-1/seq-1/</id>
+        <rel>1</rel>
+        <text>
+IT'S JACK THE RIPPER.
+The Notorious London Butch
+er Does a Regulation Job
+in New York City.
+A Dissolute Woman of the
+Slums Murdered in Jack's
+Inimitable Lcj-ie.
+His Bloody Cross Is on the
+Base of the Spine of the
+Victim.
+The Police Have a Good Des
+cription of the Murderer
+to Work On.
+Netv York. April 24.— Now let the
+police of New York prove their boasted
+superiority over the police of London.
+Jack the Kipper is here. He has done
+his unspeakable work. His victim,
+mangied as he mangled her predecessors
+in the grim list in London, lies now as
+he left her in the garret where the deed
+was done. Further than that, the
+weapon used has been found and is in
+the hands of the police. But. more than
+all. Jack the Ripper himself was
+seen before he did his bloody
+work The girl who saw him
+is able to give a close
+and clear description of him, and if
+brought face to face with him can iden
+tify him positively. The story of the
+crime is horrible in its simplicity and in
+its familiarity. Under different sur
+roundings, and with modifications inci
+dent to those surrounninsrs. it is an
+exact repetition of the horrible atroci
+ties of Whitechapel. The scene is in a
+little dirty squalid room up on the fourth
+aiid topmost rioor of a wretched lodging
+house, known as the East River house,
+and kept by one James Jennings.        </text>
+      </result>
+      
+      <!-- 10) "Jack the Ripper's Mark" – The Sun (New York, NY), April 25, 1891 -->
+      <result>
+        <id>https://chroniclingamerica.loc.gov/lccn/XXXXXX/1891-04-25/ed-1/seq-1/</id>
+        <rel>1</rel>
+        <text>
+JACK THE RIPPERS MARK
+TllK rOVnOY CRIMES ISItTATKO Itf A
+WATER STHIUtT ATI
+After Butchering cmi Old hug ol tkeNtreta
+the Murderer tteratehe a Cross Vpoa f
+Her Bodr He was Ooaa Hoar Befbr
+the Body wit Foandni IVeel Known
+Thoachnnd the New York route have
+Thnl Advnntnit Over Heotland Yard
+lie Lets ntu Knllv Too and Onrrird
+Away tkn Key of the XoomA Bad KM
+Knonm as frcneby Aniona TkoM
+Vader An tA Drag 2511 Cnat IK the
+Low Kecorl Inapeetor Byrces Tka
+the Field In ParaonBnntlnc In Prtea
+ers CroavaxnBlnatlon
+The painted bags who swarm on the rlvar
+front between Itoosevelt and Catharine streets
+havelost ono of their number An Imitator
+Jack the flipper It not Jack himself butcharad
+her on Thursday night and escaped at hl
+leisure leaving her mutilated remains in the
+wretched room hey had taken for tbenUtht
+Last night a large force of police wore drat
+glng the low resorts ot the neighborhood aid
+Inspectors flumes and Williams war at tha
+station house aquentlonlng the prisoner
+They had found out who the murdered womaa
+        </text>
       </result>
     </results>
   </topic>
